@@ -87,30 +87,3 @@
 |고영일|프론트엔드|
 
 </br></br>
-
-
-## 6️⃣ 맡은 역할
-**배포**
-- AWS 서버 구축
-- NginX 리버스 프록시 설정
-- HTTPS 설정<br/>
-👉[HTTPS 설정 기록](https://sunakang.notion.site/HTTP-HTTPS-redirect-2e0ca2c7c5c44cd082efc0dd8e2b91df)
-
-**CI/CD**<br/>
-- GitLab Jenkins Docker 연동하여 CI/CD구축<br/>
-👉[배포 & CI/CD 기록](https://sunakang.notion.site/CI-CD-Gitlab-Docker-Jenkins-f5687a54bd0c49c8b36f489194316484)<br/>
-
-**백엔드**
-- ERD 설계
-- OAuth 소셜로그인
-- JWT 인증, Redis를 사용한 인증
-- 이메일 인증( 회원가입, 임시비밀번호 발송 )
-- 결제, 배송 조회, 환불 기능 구현<br/>
-👉[JWT,OAuth인증 구현 기록](https://sunakang.notion.site/SpringBoot-Jwt-OAuth-React-a226219ff58244d79c77c05a9086ac4d)
-
-**프론트엔드**
-
-- 결제, 환불 페이지
-- 배송조회 페이지( 스마트택배 API 사용 )
-</br></br>
-
